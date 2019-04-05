@@ -1,4 +1,7 @@
 Most beleírok ide valamit
+
+
+Most beleírok branch-B-vel is 
 # IVT Spaceship
 
 This is a sample application for the [Integration and Verification Techniques](http://www.mit.bme.hu/oktatas/targyak/vimiac04) course at BME MIT.
